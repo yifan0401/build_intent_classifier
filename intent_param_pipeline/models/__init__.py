@@ -1,0 +1,1 @@
+from intent_param_pipeline.models.param_tagger_pipeline import ParamTaggerPipeline
