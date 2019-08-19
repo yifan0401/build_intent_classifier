@@ -1,0 +1,1 @@
+from param_tagger.predictors.param_tagger_predictor import ParamTaggerPredictor
