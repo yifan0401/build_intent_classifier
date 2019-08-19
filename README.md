@@ -9,7 +9,7 @@ This project focuses on using deep learning and multi-task learning techniques t
 1. The intent model executes the intent classification task.
 2. The param model executes the parameter recognition task.
 3. The pipeline model combines the intent model and param model as a pipeline.
-4. The hard parameter multi-task model (see section 3.1.4.1) executes both intent classification and parameter recognition tasks at the same time using the hard parameter sharing multi-task learning method.
+4. The hard parameter multi-task model executes both intent classification and parameter recognition tasks at the same time using the hard parameter sharing multi-task learning method.
 
 
 The Figure below shows three deep learning model variants ("Intent Model", "Param Model", and "Hard Parameter Multi-Task Model") for intent classification and parameter recognition tasks.
