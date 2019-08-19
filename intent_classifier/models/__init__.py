@@ -1,0 +1,1 @@
+from intent_classifier.models.neural_intent_classifier import IntentClassifier

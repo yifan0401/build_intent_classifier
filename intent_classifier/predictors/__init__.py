@@ -1,0 +1,1 @@
+from intent_classifier.predictors.intent_classifier_predictor import IntentClassifierPredictor
