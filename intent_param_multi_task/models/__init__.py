@@ -1,0 +1,1 @@
+from intent_param_multi_task.models.intent_param_classifier import IntentParamClassifier
