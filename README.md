@@ -14,7 +14,7 @@ This project focuses on using deep learning and multi-task learning techniques t
 
 The Figure below shows three deep learning model variants ("Intent Model", "Param Model", and "Hard Parameter Multi-Task Model") for intent classification and parameter recognition tasks.
 
-<div align="center">![Introduction_Model](https://user-images.githubusercontent.com/35661072/63275506-86de2100-c299-11e9-9774-c88a786854b1.png)</div>
+![Introduction_Model](https://user-images.githubusercontent.com/35661072/63275506-86de2100-c299-11e9-9774-c88a786854b1.png)
 
 
 This project builds and implements experiments of different models for the intent classification and parameter recognition tasks based on AllenNLP library.
