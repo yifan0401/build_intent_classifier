@@ -21,4 +21,4 @@ This project builds and implements experiments of different models for the inten
 
 Unfortunately, according to the confidential conditions of this project, the datasets used are not provided. An outputs example with intent and param label (BIO tagging scheme) shown below.
 
-<img width="286" alt="An outputs example with intent and param label (BIO tagging scheme)" src="https://user-images.githubusercontent.com/35661072/65373327-e7cf8f00-dc73-11e9-9d58-8b640379d2af.png">
+<p align="center"><img width="286" alt="An outputs example with intent and param label (BIO tagging scheme)" src="https://user-images.githubusercontent.com/35661072/65373327-e7cf8f00-dc73-11e9-9d58-8b640379d2af.png"></p>
